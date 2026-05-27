@@ -177,6 +177,6 @@ Click any of the Tableau Public links above. No installation required.
 
 ## Connect
 
-**Portfolio:** [surbhiparmar01.github.io](https://surbhiparmar01.github.io)
+**Portfolio:** [surbhiparmar01.github.io](https://surbhiparmar01.github.io/SurbhiParmarPortfolio/)
 **LinkedIn:** [linkedin.com/in/surbhiparmar](https://www.linkedin.com/in/surbhiparmar/)
 **GitHub:** [github.com/SurbhiParmar01](https://github.com/SurbhiParmar01)
